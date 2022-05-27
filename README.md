@@ -22,6 +22,7 @@ Professor - Diego Fernandes
 
 - Typescript
 - ReactJS
+- Sass
 
 <br>
 
