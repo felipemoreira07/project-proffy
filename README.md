@@ -22,10 +22,6 @@ Professor - Diego Fernandes
 
 - Typescript
 - ReactJS
-- Expo
-- Express
-- axios
-
 
 <br>
 
