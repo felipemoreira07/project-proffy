@@ -10,11 +10,7 @@
 
 ## :bookmark_tabs: Sobre
 
-Projeto desenvolvido na Next Level Week Together
-
-Intituição - Rocketseat
-
-Professor - Diego Fernandes
+Projeto desenvolvido na Next Level Week Together, com o intuito de criar um espaço que conecte alunos que buscam reforço estudantil e professores que estejam dispostos a ensinar. Nesse ambiente, é possível aos docentes determinarem suas disciplinas ofertadas e seus horários de disponibilidade, cabendo aos discentes a responsabilidade de escolher a data e o horário mais confortável. Por fim, o Proffy estabelece a conexão entre as partes e promove crescimento.
 
 <br>
 
